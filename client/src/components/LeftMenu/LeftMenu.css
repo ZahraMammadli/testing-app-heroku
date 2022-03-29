@@ -1,0 +1,12 @@
+.left-menu {
+  flex: 0.25;
+  color: aliceblue;
+}
+
+/* make the menu responsive */
+@media only screen and (max-width: 1000px) {
+  .mi-name {
+    display: none;
+    color: aliceblue;
+  }
+}

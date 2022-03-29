@@ -1,0 +1,21 @@
+.feed-body {
+  width: 75%;
+  padding: 0.5vh 0.5vw;
+  margin-left: 5vw;
+  margin-right: 3vw;
+  border: 1px solid aliceblue;
+  border-radius: 5%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1%;
+  font-family: "Roobert";
+  font-weight: bold;
+}
+
+.metadata {
+  text-align: right;
+  font-style: italic;
+  font-family: "Roobert";
+  font-weight: bold;
+}

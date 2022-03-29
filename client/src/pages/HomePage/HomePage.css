@@ -1,0 +1,25 @@
+body {
+  font-family: "Roboto";
+  color: aliceblue;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.d-flex {
+  display: flex;
+  text-align: center;
+}
+.w-80 {
+  width: 80%;
+  margin: auto;
+}
+
+.center-col {
+  flex: 0.6 1;
+}
+
+.feature {
+  border-radius: 1px solid black;
+}

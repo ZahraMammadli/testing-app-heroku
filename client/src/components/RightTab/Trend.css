@@ -1,0 +1,10 @@
+.t-body {
+  padding: 1vw 0;
+}
+
+.t-box {
+  background-color: rgb(247, 246, 246);
+  border-radius: 20px;
+  margin-top: 10px;
+  margin-left: 20px;
+}
